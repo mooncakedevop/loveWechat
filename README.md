@@ -3,7 +3,7 @@
 ------
 微信自动向女朋友发送土味情话，具有聊天功能.土味情话本来和歇后语差不多，都是吊人胃口的就考虑了分割语句做成问答形式，效果还不错，
 
-[效果图](https://upload-images.jianshu.io/upload_images/12490583-78fa6f649684a9df.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1080/format/webp)
+[效果图](https://upload-images.jianshu.io/upload_images/12490583-78fa6f649684a9df.jpg)
 
 灵感来源
 ------
