@@ -23,7 +23,7 @@ requests
 
 版权
 ------
-用人家API惴惴不安,API作者 V2EX@SlienceL [网址](https://lovelive.tools)可以去投稿啊
+API作者 V2EX@SlienceL [网址](https://lovelive.tools)可以去投稿啊
 
 备注
 ------
